@@ -1,7 +1,7 @@
 # Documentación proyecto Reporte Tiendas-Carrier
 
 Sistema de reportería y análisis logístico con Agente IA, construido sobre Streamlit y empaquetado como aplicación de escritorio con pywebview.
-
+(Comprimido del archivo se encuentra en el siguiente [enlace](https://drive.google.com/drive/folders/15MulxN64RtA3O5PrXzzKX7BNzdjAFaxm?usp=sharing))
 ---
 
 ## Estructura del Proyecto
